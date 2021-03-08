@@ -11,8 +11,11 @@ You can add a new carpark if you can't find it.
 1) community added maps and carparks
 2) times from when to when a car will be parked on a spot
 
-### *to do*
-1) make a logo
-2) finish design
-3) maybe code it?
+### *car park editor*
+1) drag and drop parking spces
+2) add number of each space
+3) add a handicap logo
+4) add entrances and exits
+5) add roads
+6) UPLOAD!
 
