@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(11, 18, 37);
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+nav, section, footer {
+    position: absolute;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 75vh;
+}
+.footer {
+    width: 100vw;
+    max-height: 150px;
+}
+.car {
+    position: absolute;
+}
+.placing {
+    margin-top: 12vh;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 98vw;
+}

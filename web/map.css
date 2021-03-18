@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(11, 18, 37);
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+div {
+    position: absolute;
+    max-width: 1000px;
+    max-height: 1000px;
+}
+.map {
+    width: 1000px;
+    height: auto;
+}
+nav {
+    position: absolute;
+    z-index: 1;
+    margin-top: 10px;
+}
+.nav {
+    width: auto;
+    max-width: 350px;
+}
